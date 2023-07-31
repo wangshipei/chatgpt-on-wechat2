@@ -1,7 +1,5 @@
 {
     "group_app_map": {
-        "测试群1": "default",
-        "ChatGPT": "wizo9hQC"
     },
     "midjourney": {
         "enabled": true,
