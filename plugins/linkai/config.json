@@ -1,6 +1,6 @@
 {
     "group_app_map": {
-        “test”:"default"
+        "test": "default", 
     },
     "midjourney": {
         "enabled": true,
